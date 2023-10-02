@@ -26,7 +26,7 @@ Implantação do Projeto no Netlify: [Explore o projeto clicando aqui.](https://
 
 ---
 
-## Project - IT Solutions <br> Created on the basis of the YouTube channel | [Felipe Rocha • dicasparadev](https://www.youtube.com/watch?v=G4_QjTJTVlc&ab_channel=FelipeRocha%E2%80%A2dicasparadevs)
+## Project - IT Solutions
 
 The site was created to provide a pleasant experience for users. It presents the fictional company IT Solutions with an attractive, structured and responsive design for different devices.
 
