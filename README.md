@@ -1,4 +1,12 @@
-## Projeto - IT Solutions <br> Criado com base do Canal no YouTube | [Felipe Rocha • dicasparadev](https://www.youtube.com/watch?v=G4_QjTJTVlc&ab_channel=FelipeRocha%E2%80%A2dicasparadevs)
+<h1 align="center">
+  IT Solutions
+</h1>
+
+<div align="center">
+  <img src="img/it-solutions.png" width="100%" />
+</div>
+
+## Projeto - IT Solutions
 
 O site foi criado para proporcionar uma experiência agradável aos usuários. Apresenta a empresa fictícia IT Solutions com design atrativo, estruturado e responsivo em diversos dispositivos.
 
@@ -10,6 +18,9 @@ Tecnologias Utilizadas:
 * [Font Awesome:](https://fontawesome.com/icons) É um conjunto de ferramentas de fontes e ícones com base em CSS e LESS.
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 * [Google Fonts:](https://fonts.google.com/specimen/Inclusive+Sans) Utilizado para acessar e aplicar fontes personalizadas aos textos da página, melhorando a estilização e a legibilidade.
+
+Créditos:
+* Criado com base do Canal no YouTube | [Felipe Rocha • dicasparadevs](https://www.youtube.com/@dicasparadevs)
 
 Implantação do Projeto no Netlify: [Explore o projeto clicando aqui.](https://site-it-solutions.netlify.app/)
 
@@ -27,5 +38,8 @@ Technologies used:
 * [Font Awesome:](https://fontawesome.com/icons) It's a set of font and icon tools based on CSS and LESS.
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
 * [Google Fonts:](https://fonts.google.com/specimen/Inclusive+Sans) Used to access and apply custom fonts to page texts, improving stylization and readability.
+
+Credits:
+* Created on the basis of the YouTube channel | [Felipe Rocha • dicasparadevs](https://www.youtube.com/@dicasparadevs)
 
 Project deployment on Netlify: [Explore the project by clicking here.](https://site-it-solutions.netlify.app/)
